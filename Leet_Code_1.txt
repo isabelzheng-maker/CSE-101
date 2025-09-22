@@ -1,0 +1,17 @@
+class Solution(object):
+    def addDigits(self, num):
+        """
+        :type num: int
+        :rtype: int
+        """
+        num_digits = len(str(num))
+        while num_digits != 1:
+            sum = 0
+            while num > 0:
+                digit = num % 10  # get last digit
+                sum += digit
+                num //= 10  # remove last digit
+            num = sum
+            num_digits = len(str(num))
+        return num
+        

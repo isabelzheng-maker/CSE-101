@@ -1,3 +1,4 @@
+Angella Huang, Kash Patel, Isabel Zheng, Ruhi Bhaskar, Samyuktha Bodduluri
 class Solution(object):
     def addDigits(self, num):
         """

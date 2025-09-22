@@ -1,0 +1,38 @@
+﻿Python vs Java
+1. Are the operators (e.g. /, /I, **, %) used the same way?
+   1. For Python // means integer division while for Java its used for commenting
+2. Do string operations like + and * behave the same?
+   1. For both Python and Java, the + and * mean the same thing (adding and multiplying)
+3. How are variables declared and updated?
+   1. Python: variable_name = value
+   2. Java: int variable = 2, variable = 3
+4. Are types required, or can you assign freely?
+   1. For Java you have to declare types while Python is free
+5. What happens when an error occurs?
+   1. Java and Python: It doesn’t run and tells the type of error
+6. How is the error shown or handled in each language?
+   1. Java: The error is shown and traced back to the code line in Java
+   2. Python: raises an exception which is a special type of object that represents the error
+7. Are true/false written the same?
+   1. Python: True and False
+   2. Java: true and false
+8. What symbols or keywords are used for logical operations?
+   1. Python: and, or, not
+   2. Java: &&, ||, !
+9. How is conditional logic structured?
+   1. Python: if, elif, else
+   2. Java: if, if-else, if-else-if, switch
+10. Are keywords or formatting different?
+   1. Yes
+11. How does each language group lines of code (indentation, braces, etc.)?
+   1. Python: indentation must be consistent, uses colon for statement ends :, () 
+   2. Java: {}, uses semicolon for statement ends ;, 
+12. How is a simple loop written and displayed?
+   1. Python: for i in range(3)
+   2. Java: for (int i = 0; i < 3; i++)
+13. Which language was easiest to understand?
+   1. Python
+14. Which had the clearest output or errors?
+   1. Python
+15. Which would you recommend to a beginner?
+   1. Python
